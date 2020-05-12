@@ -9,7 +9,7 @@ Add the `blockchain` dependency to your dart project:
 ```dart
 dependencies:
   blockchain:
-    git: github.com/JurgenJocubeit/blockchain.git
+    git: git://github.com/JurgenJocubeit/blockchain.git
 ```
 
 ## Usage
