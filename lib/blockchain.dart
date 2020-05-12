@@ -7,5 +7,5 @@ class BlockchainIconData extends IconData {
 }
 
 class Blockchain {
-  static const algorand = BlockchainIconData(0xFEA01);
+  static const algorand = BlockchainIconData(59905);
 }
