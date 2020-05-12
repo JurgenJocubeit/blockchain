@@ -1,0 +1,19 @@
+name: blockchain
+description: A collection of blockchain and cryptocurrency icons.
+version: 1.0.0
+homepage: https://github.com/fractonium/blockchain
+
+publish_to: 'none'
+
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  fonts:
+    - family: Blockchain
+      fonts:
+        - asset: fonts/Blockchain.ttf
